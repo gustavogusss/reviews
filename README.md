@@ -7,7 +7,8 @@ Endereço de Deploy - GitHub Pages
 
 
 #Protótipo
-https://www.figma.com/file/a1VDbO1aNfZyulQPxT99OE/beleza-em-dia?node-id=3%3A80
+
+https://www.figma.com/file/A8pV3NAxQZ5wrlsjSuByEk/Untitled?type=design&node-id=1%3A2&t=YECit1wkgfVcDV6p-1
 
 ##Checklist
 
